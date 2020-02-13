@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://welcome.to/netuser
+[DOC#6#7]
+BASEURL=http://residence.educities.edu.tw/netuser/netuser/index.htm
+[DOC#6#7#4#5]
+BASEURL=http://residence.educities.edu.tw/netuser/netuser/left.htm
+[DOC#6#7#4#6]
+BASEURL=http://residence.educities.edu.tw/netuser/netuser/flash/lesson01.htm
+[InternetShortcut]
+URL=http://welcome.to/netuser
+Modified=20AC43C03129BF01E9

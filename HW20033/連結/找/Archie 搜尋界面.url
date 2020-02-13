@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://archie.edu.tw/frame.html
+
+[DOC#3#4]
+BASEURL=http://archie.edu.tw/MENU.HTML
+
+[DOC#3#5]
+BASEURL=http://archie.edu.tw/twarchie.html
+
+[InternetShortcut]
+URL=http://archie.edu.tw/frame.html
+Modified=A07563D266ABBE011A

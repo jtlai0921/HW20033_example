@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://datanet.freeguard.com/icq/
+[DOC#3#4]
+BASEURL=http://datanet.freeguard.com/icq/left.html
+ORIGURL=left.html
+[DOC#3#5]
+BASEURL=http://datahp.com/list/friendlist.cgi?work=look&page=9
+ORIGURL=my.shtml
+[InternetShortcut]
+URL=http://datanet.freeguard.com/icq/
+Modified=00B62A4F20B2BF01C1

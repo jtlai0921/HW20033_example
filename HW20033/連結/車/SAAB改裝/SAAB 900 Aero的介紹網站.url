@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://users.cwnet.com/ralimi/aero/
+
+[DOC#7#8]
+BASEURL=http://users.cwnet.com/ralimi/aero/contents.html
+
+[DOC#7#9]
+BASEURL=http://users.cwnet.com/ralimi/aero/history.html
+
+[InternetShortcut]
+URL=http://users.cwnet.com/ralimi/aero/
+Modified=0009250E018FBE018B

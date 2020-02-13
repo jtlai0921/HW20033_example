@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=http://residence.educities.edu.tw/wcc/
+[DOC#6#7]
+BASEURL=http://residence.educities.edu.tw/wcc/index-top.htm
+ORIGURL=index-top.htm
+[DOC#6#8#9]
+BASEURL=http://residence.educities.edu.tw/wcc/index-bar.htm
+ORIGURL=index-bar.htm
+[DOC#6#8#10]
+BASEURL=http://residence.educities.edu.tw/wcc/life-born.htm
+ORIGURL=index-content.htm
+[InternetShortcut]
+URL=http://residence.educities.edu.tw/wcc/
+Modified=103BBCD33899BF016B

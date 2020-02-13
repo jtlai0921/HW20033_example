@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.nbamag.com.tw/
+
+[DOC#3#4]
+BASEURL=http://www.nbamag.com.tw/menu.html
+
+[DOC#3#5]
+BASEURL=http://www.nbamag.com.tw/games/games.html
+
+[InternetShortcut]
+URL=http://www.nbamag.com.tw/
+Modified=40BCC5B6BD9FBE0192

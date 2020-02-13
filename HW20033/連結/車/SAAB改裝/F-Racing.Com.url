@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.f-racing.com/index_uk.htm
+[DOC#7#8]
+BASEURL=http://www.f-racing.com/toplogo_uk.htm
+ORIGURL=/toplogo_uk.htm
+[DOC#7#10]
+BASEURL=http://www.f-racing.com/9000_uk.htm
+ORIGURL=http://www.f-racing.com/main_uk.htm
+[InternetShortcut]
+URL=http://www.f-racing.com/index_uk.htm
+Modified=10C294C8CC14C001CF

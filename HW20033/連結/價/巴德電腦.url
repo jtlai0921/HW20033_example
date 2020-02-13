@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.bartek.com.tw/
+[DOC#4#5]
+BASEURL=http://www.bartek.com.tw/menu.htm
+[DOC#4#6]
+BASEURL=http://www.bartek.com.tw/cgi-bin/bartek/PriceShow1
+[DOC#4#7]
+BASEURL=http://www.bartek.com.tw/adver.htm
+[InternetShortcut]
+URL=http://www.bartek.com.tw/
+Modified=F059D0EEDFDDBE0182

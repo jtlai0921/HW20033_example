@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=http://www.saab.f2s.com/
+[DOC#8#9]
+BASEURL=http://www.saab.f2s.com/meny.htm
+ORIGURL=meny.htm
+[DOC#8#10#11]
+BASEURL=http://www.saab.f2s.com/top.htm
+ORIGURL=top.htm
+[DOC#8#10#12]
+BASEURL=http://www.saab.f2s.com/hoved.htm
+ORIGURL=hoved.htm
+[InternetShortcut]
+URL=http://www.saab.f2s.com/
+Modified=106697DDCA14C00189

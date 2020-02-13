@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.users.wineasy.se/aahl/default.htm
+
+[DOC#4#5]
+BASEURL=http://www.users.wineasy.se/aahl/menu.html
+
+[DOC#4#6]
+BASEURL=http://www.users.wineasy.se/aahl/mainpage.html
+
+[InternetShortcut]
+URL=http://www.users.wineasy.se/aahl/default.htm
+Modified=207AEAB1428FBE01C5

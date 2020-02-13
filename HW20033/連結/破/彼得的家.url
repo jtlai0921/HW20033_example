@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.hello.com.tw/~peters67/
+
+[DOC#6#7]
+BASEURL=http://www.hello.com.tw/~peters67/left_defaultmasterborder.html
+
+[DOC#6#8]
+BASEURL=http://www.hello.com.tw/~peters67/body_index.html
+
+[InternetShortcut]
+URL=http://www.hello.com.tw/~peters67/
+Modified=604E715DE096BE01B1

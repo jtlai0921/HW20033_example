@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.playersclub.com.tw/
+[DOC#7#8]
+BASEURL=http://www.playersclub.com.tw/meau.htm
+[DOC#7#9#10]
+BASEURL=http://www.playersclub.com.tw/main.htm
+[DOC#7#9#11]
+BASEURL=http://www.playersclub.com.tw/down.htm
+[InternetShortcut]
+URL=http://www.playersclub.com.tw/
+Modified=A08C718EB51BBF01BB

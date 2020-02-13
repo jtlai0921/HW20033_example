@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.taconet.com.tw/oldju/index.htm
+
+[DOC#5#6]
+BASEURL=http://www.taconet.com.tw/oldju/newpage9.htm
+
+[DOC#5#7]
+BASEURL=http://www.taconet.com.tw/oldju/inde.htm
+
+[InternetShortcut]
+URL=http://www.taconet.com.tw/oldju/index.htm
+Modified=602770A31BBBBE012F

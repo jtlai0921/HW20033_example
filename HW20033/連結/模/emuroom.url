@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://come.to/emuroom
+
+[DOC#5#6]
+BASEURL=http://members.tripod.com/~emuroom2/index.html
+
+[DOC#5#6#12#13]
+BASEURL=http://members.tripod.com/~emuroom2/slidem.htm
+
+[DOC#5#6#12#14]
+BASEURL=http://members.tripod.com/~emuroom2/news.htm
+
+[InternetShortcut]
+URL=http://come.to/emuroom
+Modified=A001A9F6C975BE013D

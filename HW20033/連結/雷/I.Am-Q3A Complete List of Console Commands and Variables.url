@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=http://q3a.pcgame.com/console/complete.htm
+[DOC#14]
+BASEURL=http://adforce.imgis.com/?adiframe|2.0|34|76683|1|1|MISC=03304;
+ORIGURL=http://adforce.imgis.com/?adiframe|2.0|34|76683|1|1|MISC=03304;
+[InternetShortcut]
+URL=http://q3a.pcgame.com/console/complete.htm
+Modified=C0C384DC215BBF011F

@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.overclockers.com.au/
+
+[DOC_VC]
+BASEURL=http://oz.valueclick.com/cycle?host=h0107241&b=bottom.665&bgcolor=%23000000&linkcolor=%230080FF&alinkcolor=%23FF0000&vlinkcolor=%230080FF&v=0.9.5.2&t=html
+
+[InternetShortcut]
+URL=http://www.overclockers.com.au/
+Modified=60327D8369E9BD01A2

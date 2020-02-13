@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.whois.twnic.net/
+[DOC#5#6]
+BASEURL=http://www.whois.twnic.net/top.htm
+ORIGURL=top.htm
+[DOC#5#7]
+BASEURL=http://www.whois.twnic.net/rev.htm
+ORIGURL=rev.htm
+[InternetShortcut]
+URL=http://www.whois.twnic.net/
+Modified=50E64BABA8DBBF016F

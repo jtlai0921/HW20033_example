@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.taconet.com.tw/seo/
+
+[DOC#4#5]
+BASEURL=http://www.taconet.com.tw/seo/p1.html
+
+[DOC#4#6]
+BASEURL=http://www.taconet.com.tw/seo/downland.html
+
+[InternetShortcut]
+URL=http://www.taconet.com.tw/seo/
+Modified=80B3B79EF380BE01BA

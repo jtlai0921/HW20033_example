@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=http://cu.nsysu.edu.tw/song/song.htm
+[DOC#4#5#6]
+BASEURL=http://cu.nsysu.edu.tw/song/system/leftBar5.htm
+ORIGURL=system/blank.htm
+[DOC#4#5#7]
+BASEURL=http://cu.nsysu.edu.tw/song/system/hide.htm
+ORIGURL=system/blank.htm
+[DOC#4#8]
+BASEURL=http://cu.nsysu.edu.tw/song/system/welcome.htm
+ORIGURL=login.cgi
+[InternetShortcut]
+URL=http://cu.nsysu.edu.tw/song/song.htm
+Modified=90D6E6A69DB6BF0105

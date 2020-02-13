@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.tacocity.com.tw/Cheng/mud/mud.htm
+[DOC#7#8#9]
+BASEURL=http://www.tacocity.com.tw/Cheng/mud/rsMenu1.htm
+[DOC#7#8#10]
+BASEURL=http://tacocity.com.tw/cgi-bin/cgiwrap/Cheng/HowMany.pl?list_mode
+[DOC#7#11]
+BASEURL=http://www.tacocity.com.tw/Cheng/mud/main1.htm
+[InternetShortcut]
+URL=http://www.tacocity.com.tw/Cheng/mud/mud.htm
+Modified=202BEA547D23BF01E9

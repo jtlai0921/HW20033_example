@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://infopro.com/index.asp
+[DOC#5#6]
+BASEURL=http://infopro.com/frame/top.htm
+ORIGURL=frame/top.htm
+[DOC#5#7]
+BASEURL=http://infopro.com/new/index.asp
+ORIGURL=new/index.asp
+[InternetShortcut]
+URL=http://infopro.com/index.asp
+Modified=10AB168402CDBF01E4

@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.lunbbs.net/fox/index.htm
+
+[DOC#3#4]
+BASEURL=http://www.lunbbs.net/fox/2.htm
+
+[DOC#3#5#6]
+BASEURL=http://www.lunbbs.net/fox/logo.htm
+
+[DOC#3#5#7]
+BASEURL=http://www.lunbbs.net/fox/rpg.htm
+
+[InternetShortcut]
+URL=http://www.lunbbs.net/fox/index.htm
+Modified=609D82E9387FBE01DE

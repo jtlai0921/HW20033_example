@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.wingnet.com.tw/files/
+
+[DOC#4#5]
+BASEURL=http://www.wingnet.com.tw/files/title.htm
+
+[DOC#4#6#7]
+BASEURL=http://www.wingnet.com.tw/files/buttom.htm
+
+[DOC#4#6#8]
+BASEURL=http://www.wingnet.com.tw/files/main.htm
+
+[InternetShortcut]
+URL=http://www.wingnet.com.tw/files/
+Modified=0020D3314FE0BD0111

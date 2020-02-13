@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.moeaidb.gov.tw/~bill/astro/index.html
+
+[DOC#3#4]
+BASEURL=http://www.moeaidb.gov.tw/~astro/astro/et/SETI@home.htm
+
+[DOC#3#5]
+BASEURL=http://www.moeaidb.gov.tw/~bill/astro/menu.htm
+
+[InternetShortcut]
+URL=http://www.moeaidb.gov.tw/~bill/astro/index.html
+Modified=A087B4F58BA0BE01BA

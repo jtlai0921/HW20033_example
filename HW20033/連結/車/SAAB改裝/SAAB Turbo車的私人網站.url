@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://secret-secret.com/turbo/
+[DOC#0#2]
+BASEURL=http://secret-secret.com/turbo/turbotoc.html
+ORIGURL=turbotoc.html
+[DOC#0#3]
+BASEURL=http://secret-secret.com/turbo/DIY/index.html
+ORIGURL=indexf1.html
+[InternetShortcut]
+URL=http://secret-secret.com/turbo/
+Modified=A0F487F5094BBF0124

@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.prism.gatech.edu/~gte452k/
+[DOC#4#5]
+BASEURL=http://www.prism.gatech.edu/~gte452k/up.htm
+[DOC#4#6#7]
+BASEURL=http://www.prism.gatech.edu/~gte452k/leftnew.htm
+[DOC#4#6#8]
+BASEURL=http://www.prism.gatech.edu/~gte452k/right.html
+[InternetShortcut]
+URL=http://www.prism.gatech.edu/~gte452k/
+Modified=A07D56D61516BF0134

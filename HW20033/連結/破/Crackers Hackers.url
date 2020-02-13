@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.geocities.com/hotdogcom/index00.html
+[DOC#6#7]
+BASEURL=http://www.geocities.com/hotdogcom/content.html
+ORIGURL=content.html
+[DOC#6#8]
+BASEURL=http://www.geocities.com/hotdogcom/main.html
+ORIGURL=main.html
+[InternetShortcut]
+URL=http://www.geocities.com/hotdogcom/index00.html
+Modified=50908EC1AAE5BF017E

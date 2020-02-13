@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://linuxtoday.com/news_story.php3?ltsn=2000-05-12-001-04-SC-MS
+[DOC#11]
+BASEURL=http://netadsrv.iworld.com/html.ng/site=internetcom&PagePos=10&size=468x60&channel=linux&content_site=www.linuxtoday.com&feature=FEATURE
+ORIGURL=http://netadsrv.iworld.com/html.ng/site=internetcom&PagePos=10&size=468x60&channel=linux&content_site=www.linuxtoday.com&feature=FEATURE
+[DOC#338]
+BASEURL=http://netadsrv.iworld.com/html.ng/site=internetcom&PagePos=20&size=468x60&channel=linux&content_site=www.linuxtoday.com&feature=index
+ORIGURL=http://netadsrv.iworld.com/html.ng/site=internetcom&PagePos=20&size=468x60&channel=linux&content_site=www.linuxtoday.com&feature=index
+[InternetShortcut]
+URL=http://linuxtoday.com/news_story.php3?ltsn=2000-05-12-001-04-SC-MS
+Modified=F0EE1C1A3CBFBF01CF

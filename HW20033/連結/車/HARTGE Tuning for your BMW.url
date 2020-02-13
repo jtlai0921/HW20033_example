@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.hartge.de/english/frameset.html
+
+[DOC#6#7#8]
+BASEURL=http://www.hartge.de/english/logo.html
+
+[DOC#6#7#9]
+BASEURL=http://www.hartge.de/english/menu.html
+
+[DOC#6#10]
+BASEURL=http://www.hartge.de/english/home/home_home.html
+
+[InternetShortcut]
+URL=http://www.hartge.de/english/frameset.html
+Modified=40D071B8438FBE01CA

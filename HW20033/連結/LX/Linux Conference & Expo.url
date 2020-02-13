@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://linuxexpo.com/
+[DOC#5#6]
+BASEURL=http://linuxexpo.com/top.html
+ORIGURL=top.html
+[DOC#5#7]
+BASEURL=http://linuxexpo.com/body.html
+ORIGURL=body.html
+[InternetShortcut]
+URL=http://linuxexpo.com/
+Modified=E0B109CA9066BF011A

@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=http://ftp.nchu.edu.tw/study_area/linux/linuxfr.htm
+[DOC#3#4]
+BASEURL=http://ftp.nchu.edu.tw/study_area/links.htm
+ORIGURL=../links.htm
+[DOC#3#5]
+BASEURL=http://ftp.nchu.edu.tw/study_area/shadow.htm
+ORIGURL=../shadow.htm
+[DOC#3#6]
+BASEURL=http://ftp.nchu.edu.tw/study_area/linux/linux.htm#kernel
+ORIGURL=linux.htm
+[InternetShortcut]
+URL=http://ftp.nchu.edu.tw/study_area/linux/linuxfr.htm
+Modified=80307D5FC168BF0175

@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.chicagoclassicimports.com/
+[DOC#6#7]
+BASEURL=http://www.chicagoclassicimports.com/content.htm
+ORIGURL=content.htm
+[DOC#6#8]
+BASEURL=http://www.chicagoclassicimports.com/stune.html
+ORIGURL=welcome.htm
+[InternetShortcut]
+URL=http://www.chicagoclassicimports.com/
+Modified=203E56D3C1D6BF01DE

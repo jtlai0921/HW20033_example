@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://come.to/0168
+
+[DOC#5#6]
+BASEURL=http://members.tripod.com/ereer/index.htm
+
+[DOC#5#6#7#8]
+BASEURL=http://members.tripod.com/ereer/left.htm
+
+[DOC#5#6#7#9]
+BASEURL=http://members.tripod.com/ereer/main.htm
+
+[InternetShortcut]
+URL=http://come.to/0168
+Modified=409A3F89E7C8BE0110

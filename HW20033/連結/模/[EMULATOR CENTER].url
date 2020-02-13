@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.gnet1.com/emu/ev.htm
+
+[DOC#3#4]
+BASEURL=http://www.gnet1.com/emu/eleft.htm
+
+[DOC#3#5]
+BASEURL=http://www.gnet1.com/emu/enews.htm
+
+[InternetShortcut]
+URL=http://www.gnet1.com/emu/ev.htm
+Modified=0075BA0F6677BE01DA

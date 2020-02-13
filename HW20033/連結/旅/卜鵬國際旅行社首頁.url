@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.roctravel.com.tw/
+[DOC#6#7]
+BASEURL=http://www.roctravel.com.tw/roc-1b.htm
+[DOC#6#8]
+BASEURL=http://www.roctravel.com.tw/newpage9.htm
+[InternetShortcut]
+URL=http://www.roctravel.com.tw/
+Modified=C0D7F0AF3729BF0156

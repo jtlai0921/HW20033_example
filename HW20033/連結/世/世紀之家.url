@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.netvigator.com.tw/~aoeweb/
+[DOC#4#5]
+BASEURL=http://www.netvigator.com.tw/~aoeweb/left.htm
+[DOC#4#6]
+BASEURL=http://www.netvigator.com.tw/~aoeweb/Aok_race.htm
+[InternetShortcut]
+URL=http://www.netvigator.com.tw/~aoeweb/
+Modified=50B801A7A830BF0148

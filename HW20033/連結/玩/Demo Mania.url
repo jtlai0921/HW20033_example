@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://welcome.to/demomania
+
+[DOC#5#6]
+BASEURL=http://demomania.hinet.to/
+
+[DOC#5#6#3#4]
+BASEURL=http://home.cicq.net/Recreation/Games/demomania.hinet.to/demo/SWEPI_racer.htm
+
+[DOC#5#6#3#5]
+BASEURL=http://demomania.hinet.to/ad.html?a=ZGVtb21hbmlhLmhpbmV0LnRv
+
+[InternetShortcut]
+URL=http://welcome.to/demomania
+Modified=802204B118BBBE01E9

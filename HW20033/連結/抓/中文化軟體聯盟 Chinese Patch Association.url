@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://cpatch.dhs.org/
+[DOC#6#7]
+BASEURL=http://cpatch.dhs.org/mainup.htm
+[DOC#6#8]
+BASEURL=http://cpatch.dhs.org/maindown.htm
+[InternetShortcut]
+URL=http://cpatch.dhs.org/
+Modified=20E834961D26BF01D5

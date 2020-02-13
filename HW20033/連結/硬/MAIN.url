@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://www.surfsolutions.com/cdrinfo/
+[DOC#619]
+BASEURL=http://adex3.flycast.com/server/socket/127.0.0.1:2800/iframe/SurfSolutions/CDRInfo/637
+[InternetShortcut]
+URL=http://www.surfsolutions.com/cdrinfo/
+Modified=C0D90DD3D7DDBE01EC

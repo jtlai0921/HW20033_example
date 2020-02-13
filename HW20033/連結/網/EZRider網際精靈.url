@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.fugu.com.tw/ezrider/
+[DOC#6#7]
+BASEURL=http://www.fugu.com.tw/ezrider/top.htm
+[DOC#6#8#9]
+BASEURL=http://www.fugu.com.tw/ezrider/left.htm
+[DOC#6#8#10]
+BASEURL=http://www.fugu.com.tw/ezrider/ezrider.htm
+[InternetShortcut]
+URL=http://www.fugu.com.tw/ezrider/
+Modified=201984265119BF010D

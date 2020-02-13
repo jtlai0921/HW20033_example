@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.map.com.tw/default.asp
+
+[DOC_ASIADFRAME]
+BASEURL=http://ad1.asiad.net/html.ng/TransactionID=8000081209982870&SpaceDesc=top&AdSize=468x60&Site=map
+
+[InternetShortcut]
+URL=http://www.map.com.tw/default.asp
+Modified=00EC2984B473BE017F

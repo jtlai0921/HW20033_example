@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://club.kimo.com.tw/clubs/onshigh
+[DOC#6#7]
+BASEURL=http://club.kimo.com.tw/cgi-bin/funclist?cid=onshigh&flash=1&rand=95694160930454
+ORIGURL=/cgi-bin/funclist?cid=onshigh&flash=1&rand=95694160930454
+[DOC#6#8]
+BASEURL=http://club.kimo.com.tw/cgi-bin/msg/display.cgi?club=onshigh&act=next&essen=none&id=256&page=1&num=244&rand=956941993671.8702
+ORIGURL=/cgi-bin/contlist?cid=onshigh&rand=95694160930454
+[InternetShortcut]
+URL=http://club.kimo.com.tw/clubs/onshigh
+Modified=F0DF420E35B1BF01C5

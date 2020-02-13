@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://welcome.to/hosoft
+[DOC#6#7]
+BASEURL=http://www.hello.com.tw/~afall/sindex.htm
+[InternetShortcut]
+URL=http://welcome.to/hosoft
+Modified=60B50555702CBF01CB

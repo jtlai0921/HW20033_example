@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.lager.com.tw/gkk/
+[DOC#5#6]
+BASEURL=http://www.lager.com.tw/gkk/indexa.htm
+[DOC#5#7]
+BASEURL=http://www.lager.com.tw/gkk/link.htm
+[InternetShortcut]
+URL=http://www.lager.com.tw/gkk/
+Modified=E0EBA5057C23BF01D4

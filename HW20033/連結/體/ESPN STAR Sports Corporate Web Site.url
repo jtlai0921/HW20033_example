@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.espnstar.com/
+
+[DOC#3#4]
+BASEURL=http://www.espnstar.com/left.html
+
+[InternetShortcut]
+URL=http://www.espnstar.com/
+Modified=20762EDA31A1BE012F
+
+[DOC#3#5#6]
+BASEURL=http://www.espnstar.com/top_menu.html
+
+[DOC#3#5#8]
+BASEURL=http://www.espnstar.com/blank.html

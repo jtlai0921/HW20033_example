@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.stsci.edu/
+
+[InternetShortcut]
+URL=http://www.stsci.edu/
+Modified=40319B760797BE01DF

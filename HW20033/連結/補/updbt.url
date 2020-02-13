@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://welcome.to/updbt
+
+[DOC#6#7]
+BASEURL=http://members.tripod.com/~updbt3/
+
+[InternetShortcut]
+URL=http://welcome.to/updbt
+Modified=20BFEDFABCA6BE01E7

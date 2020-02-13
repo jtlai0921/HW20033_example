@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://crcpl.tsx.org/
+
+[DOC#6#7]
+BASEURL=http://206.253.222.85/maka176/cdcopy.htm
+
+[DOC#6#8]
+BASEURL=about:blank
+
+[InternetShortcut]
+URL=http://crcpl.tsx.org/
+Modified=8025E18827CCBE01C0

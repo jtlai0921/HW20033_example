@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.ora.nsysu.edu.tw/~goldentime/
+
+[DOC#3#4#5]
+BASEURL=http://www.ora.nsysu.edu.tw/~goldentime/lt.htm
+
+[DOC#3#4#6]
+BASEURL=http://www.ora.nsysu.edu.tw/~goldentime/rt.htm
+
+[DOC#3#7]
+BASEURL=http://www.ora.nsysu.edu.tw/~goldentime/new.htm
+
+[InternetShortcut]
+URL=http://www.ora.nsysu.edu.tw/~goldentime/
+Modified=E0467329FFCCBE014C

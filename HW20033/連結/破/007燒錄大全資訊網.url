@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://mail.ht.net.tw/~gygywww/www/new1.htm
+[DOC#6#7]
+BASEURL=http://mail.ht.net.tw/~gygywww/www/new_page_3.htm
+ORIGURL=new_page_3.htm
+[DOC#6#8]
+BASEURL=http://mail.ht.net.tw/~gygywww/www/new_page_4.htm
+ORIGURL=new_page_4.htm
+[InternetShortcut]
+URL=http://mail.ht.net.tw/~gygywww/www/new1.htm
+Modified=E0C3EFDD2773BF01C9

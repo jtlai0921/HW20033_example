@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://come.to/san6
+
+[DOC#5#6]
+BASEURL=http://www.taconet.com.tw/dasan6/
+
+[DOC#5#6#5#6]
+BASEURL=http://www.taconet.com.tw/dasan6/left.htm
+
+[DOC#5#6#5#7]
+BASEURL=http://www.taconet.com.tw/dasan6/update.htm
+
+[InternetShortcut]
+URL=http://come.to/san6
+Modified=80F6B709AB7ABE011A

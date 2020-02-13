@@ -1,0 +1,17 @@
+[DEFAULT]
+BASEURL=http://www.escortcat.com/escort/speedtrap/speedtrap.htm
+[DOC#6#7#8]
+BASEURL=http://www.escortcat.com/escort/speedtrap/left.htm
+ORIGURL=left.htm
+[DOC#6#7#9]
+BASEURL=http://www.escortcat.com/escort/speedtrap/tptindex.htm
+ORIGURL=right.htm
+[DOC#6#7#9#6#7]
+BASEURL=http://www.escortcat.com/escort/speedtrap/tpttop.htm
+ORIGURL=tpttop.htm
+[DOC#6#7#9#6#8]
+BASEURL=http://www.escortcat.com/escort/speedtrap/tptmain.htm
+ORIGURL=tptmain.htm
+[InternetShortcut]
+URL=http://www.escortcat.com/escort/speedtrap/speedtrap.htm
+Modified=B0C9EEA797AFBF0114

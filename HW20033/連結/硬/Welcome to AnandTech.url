@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.anandtech.com/
+
+[DOC#273]
+BASEURL=http://adforce.imgis.com/?adiframe|2.0|2|60614|1|1|ADFORCE;
+
+[InternetShortcut]
+URL=http://www.anandtech.com/
+Modified=207B24A7A9D4BE01A2

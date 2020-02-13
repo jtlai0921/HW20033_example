@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.dse.nl/puzzle/harder/index.html
+[DOC#11#15]
+BASEURL=http://www.dse.nl/puzzle/harder/advert.html
+[DOC#11#16]
+BASEURL=http://www.dse.nl/puzzle/harder/index_us.html
+[InternetShortcut]
+URL=http://www.dse.nl/puzzle/harder/index.html
+Modified=8028E4027620BF01E4

@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://astalavista.box.sk/
+
+[DOC#42]
+BASEURL=http://ads.clickagents.com/cgibin/banner.ca?marek2.640.iframe&http://astalavista.box.sk/
+
+[InternetShortcut]
+URL=http://astalavista.box.sk/
+Modified=80D8F1C3E096BE0141

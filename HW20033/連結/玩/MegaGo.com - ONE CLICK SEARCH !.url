@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.megago.com/
+
+[DOC#5#6]
+BASEURL=http://tp2000.8m.com/
+
+[DOC#5#6#16]
+BASEURL=http://tp2000.8m.com/cgi-bin/b/468/60/dXNlcmJhbm5lcg==/is/170/
+
+[InternetShortcut]
+URL=http://www.megago.com/
+Modified=00AEA05265D4BE0198

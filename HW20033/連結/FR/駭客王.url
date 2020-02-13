@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://kinghacker.issmart.com/
+[DOC#6#7]
+BASEURL=http://homes.arealcity.com/kinghacker/pass/hhk1946.html
+ORIGURL=http://homes.arealcity.com/kinghacker/
+[DOC#6#8]
+BASEURL=about:blank
+[InternetShortcut]
+URL=http://kinghacker.issmart.com/
+Modified=6076D5556690BF01B6

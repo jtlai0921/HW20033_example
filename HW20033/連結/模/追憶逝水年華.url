@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.hello.com.tw/~yuanis/
+
+[DOC#6#7]
+BASEURL=http://www.hello.com.tw/~yuanis/emubar.htm
+
+[DOC#6#8]
+BASEURL=http://www.hello.com.tw/~yuanis/memory.htm
+
+[InternetShortcut]
+URL=http://www.hello.com.tw/~yuanis/
+Modified=E03012D1974ABE0193

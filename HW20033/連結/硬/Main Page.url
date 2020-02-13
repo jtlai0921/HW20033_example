@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://overclocking.webking.com/
+
+[DOC#7#8]
+BASEURL=http://overclocking.webking.com/new_page_2.htm
+
+[DOC#7#9]
+BASEURL=http://overclocking.webking.com/index-apr-99.html
+
+[InternetShortcut]
+URL=http://overclocking.webking.com/
+Modified=0033F0941284BE010C

@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://gonow.to/cdrmart
+
+[DOC#15#16]
+BASEURL=http://members.tripod.com/CDRMART/
+
+[DOC#15#17]
+BASEURL=http://gonow.to/gonow/ad4.cfm?gonowto=cdrmart&referred_by=0
+
+[InternetShortcut]
+URL=http://gonow.to/cdrmart
+Modified=00AA36921FADBE01FD

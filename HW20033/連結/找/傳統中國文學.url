@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://shinning.f-16.com.tw/index1.htm
+[DOC#4#5]
+BASEURL=http://shinning.f-16.com.tw/left.htm
+ORIGURL=left.htm
+[DOC#4#6]
+BASEURL=http://shinning.f-16.com.tw/main.asp
+ORIGURL=main.asp
+[InternetShortcut]
+URL=http://shinning.f-16.com.tw/index1.htm
+Modified=2032905BE8C7BF01AC

@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.nba-live.com/
+
+[DOC#12#13]
+BASEURL=http://www.nba-live.com/nlscnav.shtml
+
+[DOC#12#14]
+BASEURL=http://www.nba-live.com/nlscnews.shtml
+
+[InternetShortcut]
+URL=http://www.nba-live.com/
+Modified=800B32AAF280BE0198

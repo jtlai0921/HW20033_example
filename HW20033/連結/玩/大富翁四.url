@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.taconet.com.tw/poper/rich/index.html
+
+[DOC#7#8]
+BASEURL=http://www.taconet.com.tw/poper/rich/link.html
+
+[DOC#7#9]
+BASEURL=http://www.taconet.com.tw/poper/rich/place.html
+
+[InternetShortcut]
+URL=http://www.taconet.com.tw/poper/rich/index.html
+Modified=206475672582BE01C6

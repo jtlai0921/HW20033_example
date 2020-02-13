@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www1.pcnfs.net/
+
+[DOC#5#6#8]
+BASEURL=http://www1.pcnfs.net/index2.html
+
+[DOC#5#9#10]
+BASEURL=http://www1.pcnfs.net/index3.html
+
+[DOC#5#9#11]
+BASEURL=http://www1.pcnfs.net/content.asp
+
+[InternetShortcut]
+URL=http://www1.pcnfs.net/
+Modified=20E8EBCAB2DCBE010A

@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.acceleratedresponse.com/
+[DOC#4#5]
+BASEURL=http://www.acceleratedresponse.com/f_head.htm
+ORIGURL=f_head.htm
+[DOC#4#6]
+BASEURL=http://www.acceleratedresponse.com/9000.htm
+ORIGURL=model.htm
+[InternetShortcut]
+URL=http://www.acceleratedresponse.com/
+Modified=D0B334FA094BBF01C5

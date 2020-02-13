@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://fly.to/pingucd
+
+[DOC#5#6]
+BASEURL=http://ww2.servenet.net/users/2560/PINGU/PINGUCD/index.htm
+
+[DOC#5#6#6#7]
+BASEURL=http://ww2.servenet.net/users/2560/PINGU/PINGUCD/left.htm
+
+[DOC#5#6#6#8]
+BASEURL=http://ww2.servenet.net/users/2560/PINGU/PINGUCD/news.htm
+
+[InternetShortcut]
+URL=http://fly.to/pingucd
+Modified=E078CCC8FECABE0173

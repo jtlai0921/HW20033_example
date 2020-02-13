@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=http://firingsquad.gamers.com/
+[DOC#135]
+BASEURL=http://adforce.imgis.com/?adiframe|2.0|224|141676|1|1|ADFORCE;
+ORIGURL=http://adforce.imgis.com/?adiframe|2.0|224|141676|1|1|ADFORCE;
+[InternetShortcut]
+URL=http://firingsquad.gamers.com/
+Modified=C079CC93BAF8BF010A

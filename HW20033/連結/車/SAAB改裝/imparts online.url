@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=http://www.impartsol.com/default.cfm
+[DOC#6#8#9]
+BASEURL=http://www.impartsol.com/scrolly.cfm?orderx=985292
+ORIGURL=scrolly.cfm?orderx=985292
+[InternetShortcut]
+URL=http://www.impartsol.com/default.cfm
+Modified=50252E0BDF14C00162

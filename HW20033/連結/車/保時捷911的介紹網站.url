@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.porsche-rs.com/34years.html
+
+[DOC#3#4]
+BASEURL=http://www.porsche-rs.com/topnav_mmedia.html
+
+[DOC#3#5#6]
+BASEURL=http://www.porsche-rs.com/leftnav_34years.html
+
+[DOC#3#5#7]
+BASEURL=http://www.porsche-rs.com/content/34years_main.html
+
+[InternetShortcut]
+URL=http://www.porsche-rs.com/34years.html
+Modified=8041D01E7B9BBE0184

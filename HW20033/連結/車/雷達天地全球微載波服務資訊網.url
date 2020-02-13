@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://escort.tiger2.net/
+[DOC#7#8]
+BASEURL=http://escort.tiger2.net/top.htm
+[DOC#7#9#10]
+BASEURL=http://escort.tiger2.net/left.htm
+[DOC#7#9#11]
+BASEURL=http://escort.tiger2.net/right.htm
+[InternetShortcut]
+URL=http://escort.tiger2.net/
+Modified=0001CA76F2FBBE01ED

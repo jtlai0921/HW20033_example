@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.tweak3d.net/reviews/
+
+[DOC#124]
+BASEURL=http://adex3.flycast.com/server/socket/127.0.0.1:2800/iframe/Tweak3D/main/607
+
+[InternetShortcut]
+URL=http://www.tweak3d.net/reviews/
+Modified=4007F43552D6BE0157

@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://140.120.150.128/atos/
+[DOC#6#7]
+BASEURL=http://140.120.150.128/atos/left.htm
+[DOC#6#8]
+BASEURL=http://140.120.150.128/atos/equip.htm
+[InternetShortcut]
+URL=http://140.120.150.128/atos/
+Modified=50ABBC328C36BF016B

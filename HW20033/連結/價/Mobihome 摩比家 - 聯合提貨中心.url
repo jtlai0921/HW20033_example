@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.mobihome.com.tw/default.htm
+
+[DOC#6#7]
+BASEURL=http://www.mobihome.com.tw/top.htm
+
+[DOC#6#8]
+BASEURL=http://www.mobihome.com.tw/content.cfm
+
+[InternetShortcut]
+URL=http://www.mobihome.com.tw/default.htm
+Modified=802A53C8F5BABE0133

@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://140.115.30.93/voliron/
+[DOC#3#4]
+BASEURL=http://140.115.30.93/voliron/left.html
+ORIGURL=left.html
+[DOC#3#5]
+BASEURL=http://140.115.30.93/voliron/right.html
+ORIGURL=right.html
+[InternetShortcut]
+URL=http://140.115.30.93/voliron/
+Modified=F0BADDFC82C2BF0187

@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.superchips.co.uk/car/indexfr.htm
+[DOC#3#4]
+BASEURL=http://www.superchips.co.uk/car/nav.htm
+ORIGURL=nav.htm
+[DOC#3#5]
+BASEURL=http://www.superchips.co.uk/car/pc.htm#turbo
+ORIGURL=index.htm
+[InternetShortcut]
+URL=http://www.superchips.co.uk/car/indexfr.htm
+Modified=20B8161834A4BF019E

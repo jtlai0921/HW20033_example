@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.geocities.com/NapaValley/Vineyard/4013/index.htm
+[DOC#5#6]
+BASEURL=http://www.geocities.com/NapaValley/Vineyard/4013/index-le.htm
+ORIGURL=index-le.htm
+[DOC#5#7]
+BASEURL=http://www.geocities.com/NapaValley/Vineyard/4013/index-ri.htm
+ORIGURL=index-ri.htm
+[InternetShortcut]
+URL=http://www.geocities.com/NapaValley/Vineyard/4013/index.htm
+Modified=00428A6F2F74BF019E

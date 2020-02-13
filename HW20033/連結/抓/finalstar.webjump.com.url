@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://finalstar.webjump.com/
+[DOC#7#8#9]
+BASEURL=http://bannervip.webjump.com/webjump/valet/a.html
+[DOC#7#8#10]
+BASEURL=http://bannervip.webjump.com/webjump/valet/b.asp?maincat=&subcats=R
+[DOC#7#11]
+BASEURL=http://freehosting2.at.webjump.com/5bc0d4dff/fi/finalstar-webjump/
+[DOC#7#11#6#7]
+BASEURL=http://freehosting2.at.webjump.com/5bc0d4dff/fi/finalstar-webjump/new5.htm
+[DOC#7#11#6#8]
+BASEURL=http://freehosting2.at.webjump.com/5bc0d4dff/fi/finalstar-webjump/index11.htm
+[InternetShortcut]
+URL=http://finalstar.webjump.com/
+Modified=30A3980A30E9BE014D

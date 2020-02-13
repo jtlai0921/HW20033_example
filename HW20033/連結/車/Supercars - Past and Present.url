@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.supercars.net/
+
+[DOC#42]
+BASEURL=http://www.datais.com/ads/ad.cgi?-VERIFY76014304+supercars-ad507-lmth=iframe
+
+[InternetShortcut]
+URL=http://www.supercars.net/
+Modified=E09E59F6759BBE019C

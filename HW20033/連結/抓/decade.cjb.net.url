@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://decade.cjb.net/
+
+[DOC#3#4]
+BASEURL=http://members.tripod.com/~ddt95014/ze.htm
+
+[DOC#3#4#9#10]
+BASEURL=http://members.tripod.com/~ddt95014/main.htm
+
+[DOC#3#4#9#11]
+BASEURL=http://members.tripod.com/~ddt95014/gate1.htm
+
+[InternetShortcut]
+URL=http://decade.cjb.net/
+Modified=00019AFC26E1BD015C
